@@ -2,6 +2,7 @@
 public class Rana {
 public static void main (String[]args)
 {
-	//Rana
+	String a="IT FINALLY WORKEDDDDDDDDDD YAYZ!";
+	System.out.println(a);
 }
 }
